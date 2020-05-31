@@ -58,9 +58,10 @@ a:hover {
 header {
   text-align: center;
   background: url('images/dental-office-foto1.jpg') no-repeat top center ;
-  background-size: cover;
+  background-size: 70%;
   overflow: hidden;
   padding-top: 10px;
+
 }
 header {
   line-height: 1.5;
